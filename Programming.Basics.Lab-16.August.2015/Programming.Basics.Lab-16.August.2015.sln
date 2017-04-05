@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BaiIvanAdventures", "01.BaiIvanAdventures\01.BaiIvanAdventures.csproj", "{FA95A55D-2965-4E22-96BD-B3F58E7CDE26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PhoneProcesses", "04.PhoneProcesses\04.PhoneProcesses.csproj", "{CADC7CC5-0D10-49B7-9168-29188148D096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA95A55D-2965-4E22-96BD-B3F58E7CDE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA95A55D-2965-4E22-96BD-B3F58E7CDE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA95A55D-2965-4E22-96BD-B3F58E7CDE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA95A55D-2965-4E22-96BD-B3F58E7CDE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADC7CC5-0D10-49B7-9168-29188148D096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADC7CC5-0D10-49B7-9168-29188148D096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADC7CC5-0D10-49B7-9168-29188148D096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADC7CC5-0D10-49B7-9168-29188148D096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
